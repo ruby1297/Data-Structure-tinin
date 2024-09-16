@@ -9,6 +9,6 @@
 |ASSIGNMENT 3|Binary Tree Traversal|Trees|
 |ASSIGNMENT 4|Banker's Algorithm|Operating System|
 
-有任何程式問題歡迎寄email與我討論
+If you have any programming questions, feel free to email me for discussion.
 
 [ email:yuyu199127@gmail.com ]
